@@ -1,5 +1,5 @@
 # phonepe-pulse
-1. Data extraction: Cloning the Github using scripting to fetch the data from the
+1. Data extraction: Cloning the Github using script to fetch the data from the
 Phonepe pulse Github repository and storing it in a suitable format such as CSV
 or JSON.
 2. Data transformation: Using a scripting language such as Python, along with
